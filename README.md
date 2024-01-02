@@ -53,67 +53,59 @@ Use Cases
 
 Peer-reviewed work in which StackSplit was used:
 
-**2019**
+**2024**
 
-- **_Gao, Y., Chen, L., Wang, X. & Ai, Y. (2019)_**,
-  Complex lithospheric deformation in eastern and northeastern Tibet From shear wave splitting observations and its geodynamic implications,
-  Journal of Geophysical Research: Solid Earth, 124, 10331–10346. https://doi.org/10.1029/2018JB017081
-
-- **_Grund, M. & Ritter J. R. R. (2019)_**,
-  Widespread seismic anisotropy in Earth's lowermost mantle beneath the Atlantic and Siberia,
-  Geology, 47 (2): 123–126. https://doi.org/10.1130/G45514.1.
-
-- **_Ju, C., Zhao, J., Huang, N., Xu, Q. & Liu, H. (2019)_**,
-  Seismic anisotropy of the crust and upper mantle beneath western Tibet revealed by shear wave splitting measurements,
-  GJI, 216(1), 535–544, https://doi.org/10.1093/gji/ggy448.
-
-**2020**
-
-- **_Grund, M. & Ritter, J. R. R. (2020)_**,
-  Shear-wave splitting beneath Fennoscandia — evidence for dipping structures and laterally varying multilayer anisotropy,
-  GJI, 223(3), 1525-1547, https://doi.org/10.1093/gji/ggaa388.
-
-- **_Spingos, I., Kaviris, G., Millas, C., Papadimitriou, P. & Voulgaris, N. (2020)_**,
-  Pytheas: An open-source software solution for local shear-wave splitting studies,
-  Computers & Geosciences, 134, https://doi.org/10.1016/j.cageo.2019.104346.
-
-**2021**
-
-- **_Andriampenomanana, F., Nyblade, A., Durrheim, R., Tugume, F. & Nyago, J. (2021)_**,
-  Shear wave splitting measurements in northeastern Uganda and southeastern Tanzania: corroborating evidence for sublithospheric mantle flow beneath East Africa,
-  GJI, 226(3), 1696–1704, https://doi.org/10.1093/gji/ggab167.
-
-- **_Creasy, N., Pisconti, A., Long, M.  D., & Thomas, C. (2021)_**,
-  Modeling of seismic anisotropy observations reveals plausible lowermost mantle flow directions beneath Siberia,
-  Geochemistry, Geophysics, Geosystems, 22, https://doi.org/10.1029/2021GC009924.
+- **_Fröhlich, Y. & Ritter, J. R. R. (2024)_**,
+  Lateral and vertical variations of seismic anisotropy in the lithosphere-asthenosphere system underneath Central Europe from long-term splitting measurements,
+  in revision for GJI.
 
 **2022**
 
 - **_Cheng, B., Liu, Y., Dong, Y., Zhao, D., Yang, Z. & Zhang, G. (2022)_**,
   Northeastward expansion of the Tibetan Plateau: Seismic anisotropy evidence from shear-wave splitting measurements,
   Journal of Asian Earth Sciences, 240, https://doi.org/10.1016/j.jseaes.2022.105430.
-
 - **_Fröhlich, Y., Grund, M. & Ritter, J. R. R. (2022)_**,
   On the effects of wrongly aligned seismogram components for shear wave splitting analysis,
   Annals of Geophysics, 66(3-4), https://doi.org/10.4401/ag-8781.
-
 - **_Gao, Y., Chen, L., Talebian, M., Wu, Z., Wang, X., Lan, H., Ai, Y., Jiang, M., Hou, G., Mahdi Khatib, M., Xiao, W. & Zhu, R. (2022)_**,
   Nature and structural heterogeneities of the lithosphere control the continental deformation in the northeastern and eastern Iranian plateau as revealed by shear-wave splitting observations,
   Earth and Planetary Science Letters, 578, https://doi.org/10.1016/j.epsl.2021.117284.
-
 - **_Link, F., Reiss, M. C. & Rümpker, G. (2022)_**,
   An automatized XKS-splitting procedure for large data sets: Extension package for SplitRacer and application to the USArray,
   Computers & Geosciences, 158, https://doi.org/10.1016/j.cageo.2021.104961.
-
 - **_Ritter, J. R. R., Fröhlich, Y., Sanz Alonso, Y. & Grund, M. (2022)_**,
   Short-scale laterally varying SK(K)S shear wave splitting at BFO, Germany — implications for the determination of anisotropic structures,
   Journal of Seismology, 26, 1137–1156, https://doi.org/10.1007/s10950-022-10112-w.
 
-**2024**
+**2021**
 
-- **_Fröhlich, Y. & Ritter, J. R. R. (2024)_**,
-  Lateral and vertical variations of seismic anisotropy in the lithosphere-asthenosphere system underneath Central Europe from long-term splitting measurements,
-  in revision for GJI.
+- **_Andriampenomanana, F., Nyblade, A., Durrheim, R., Tugume, F. & Nyago, J. (2021)_**,
+  Shear wave splitting measurements in northeastern Uganda and southeastern Tanzania: corroborating evidence for sublithospheric mantle flow beneath East Africa,
+  GJI, 226(3), 1696–1704, https://doi.org/10.1093/gji/ggab167.
+- **_Creasy, N., Pisconti, A., Long, M.  D., & Thomas, C. (2021)_**,
+  Modeling of seismic anisotropy observations reveals plausible lowermost mantle flow directions beneath Siberia,
+  Geochemistry, Geophysics, Geosystems, 22, https://doi.org/10.1029/2021GC009924.
+
+**2020**
+
+- **_Grund, M. & Ritter, J. R. R. (2020)_**,
+  Shear-wave splitting beneath Fennoscandia — evidence for dipping structures and laterally varying multilayer anisotropy,
+  GJI, 223(3), 1525-1547, https://doi.org/10.1093/gji/ggaa388.
+- **_Spingos, I., Kaviris, G., Millas, C., Papadimitriou, P. & Voulgaris, N. (2020)_**,
+  Pytheas: An open-source software solution for local shear-wave splitting studies,
+  Computers & Geosciences, 134, https://doi.org/10.1016/j.cageo.2019.104346.
+
+**2019**
+
+- **_Gao, Y., Chen, L., Wang, X. & Ai, Y. (2019)_**,
+  Complex lithospheric deformation in eastern and northeastern Tibet From shear wave splitting observations and its geodynamic implications,
+  Journal of Geophysical Research: Solid Earth, 124, 10331–10346. https://doi.org/10.1029/2018JB017081.
+- **_Grund, M. & Ritter J. R. R. (2019)_**,
+  Widespread seismic anisotropy in Earth's lowermost mantle beneath the Atlantic and Siberia,
+  Geology, 47 (2): 123–126. https://doi.org/10.1130/G45514.1.
+- **_Ju, C., Zhao, J., Huang, N., Xu, Q. & Liu, H. (2019)_**,
+  Seismic anisotropy of the crust and upper mantle beneath western Tibet revealed by shear wave splitting measurements,
+  GJI, 216(1), 535–544, https://doi.org/10.1093/gji/ggy448.
 
 References
 ----------
