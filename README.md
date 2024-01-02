@@ -114,7 +114,7 @@ Already included by Grund (2019) and Grund & Ritter (2020)
 -->
 - **_Grund, M. & Ritter J. R. R. (2019)_**,
   Widespread seismic anisotropy in Earth's lowermost mantle beneath the Atlantic and Siberia,
-  Geology, 47 (2): 123–126. https://doi.org/10.1130/G45514.1.
+  Geology, 47(2), 123–126. https://doi.org/10.1130/G45514.1.
 - **_Ju, C., Zhao, J., Huang, N., Xu, Q. & Liu, H. (2019)_**,
   Seismic anisotropy of the crust and upper mantle beneath western Tibet revealed by shear wave splitting measurements,
   Geophysical Journal International, 216(1), 535–544, https://doi.org/10.1093/gji/ggy448.
