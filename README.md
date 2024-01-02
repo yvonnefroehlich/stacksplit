@@ -88,6 +88,12 @@ Peer-reviewed work in which StackSplit was used:
 
 **2020**
 
+<!---
+Already included by Fröhlich et al. (2024), in German
+- **_Fröhlich, Y. (2020)_**,
+  Shear-wave splitting of SK(K)S-phases and laterally varying anisotropy in the Upper Rhine Graben area,
+  Master thesis, Karlsruhe Institute of Technology (KIT), https://doi.org/10.5445/IR/1000165525.
+-->
 - **_Grund, M. & Ritter, J. R. R. (2020)_**,
   Shear-wave splitting beneath Fennoscandia — evidence for dipping structures and laterally varying multilayer anisotropy,
   Geophysical Journal International, 223(3), 1525-1547, https://doi.org/10.1093/gji/ggaa388.
@@ -100,12 +106,27 @@ Peer-reviewed work in which StackSplit was used:
 - **_Gao, Y., Chen, L., Wang, X. & Ai, Y. (2019)_**,
   Complex lithospheric deformation in eastern and northeastern Tibet From shear wave splitting observations and its geodynamic implications,
   Journal of Geophysical Research: Solid Earth, 124, 10331–10346. https://doi.org/10.1029/2018JB017081.
+<!---
+Already included by Grund (2019) and Grund & Ritter (2020)
+- **_Grund, M. (2019)_**,
+  Exploring geodynamics at different depths with shear wave splitting,
+  PhD thesis, Karlsruhe Institute of Technology (KIT), https://doi.org/10.5445/IR/1000091425.
+-->
 - **_Grund, M. & Ritter J. R. R. (2019)_**,
   Widespread seismic anisotropy in Earth's lowermost mantle beneath the Atlantic and Siberia,
   Geology, 47 (2): 123–126. https://doi.org/10.1130/G45514.1.
 - **_Ju, C., Zhao, J., Huang, N., Xu, Q. & Liu, H. (2019)_**,
   Seismic anisotropy of the crust and upper mantle beneath western Tibet revealed by shear wave splitting measurements,
   Geophysical Journal International, 216(1), 535–544, https://doi.org/10.1093/gji/ggy448.
+
+<!---
+**2017**
+
+Already mentioned as citization section
+- **_Grund, M. (2017)_**,
+  StackSplit - a plugin for multi-event shear wave splitting analyses in SplitLab,
+  Computers & Geosciences, 105, 43-50, https://doi.org/10.1016/j.cageo.2017.04.015.
+-->
 
 References
 ----------
