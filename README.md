@@ -57,7 +57,7 @@ Peer-reviewed work in which StackSplit was used:
 
 - **_Fröhlich, Y. & Ritter, J. R. R. (2024)_**,
   Lateral and vertical variations of seismic anisotropy in the lithosphere-asthenosphere system underneath Central Europe from long-term splitting measurements,
-  in revision for GJI.
+  in revision for Geophysical Journal International.
 
 **2022**
 
@@ -81,7 +81,7 @@ Peer-reviewed work in which StackSplit was used:
 
 - **_Andriampenomanana, F., Nyblade, A., Durrheim, R., Tugume, F. & Nyago, J. (2021)_**,
   Shear wave splitting measurements in northeastern Uganda and southeastern Tanzania: corroborating evidence for sublithospheric mantle flow beneath East Africa,
-  GJI, 226(3), 1696–1704, https://doi.org/10.1093/gji/ggab167.
+  Geophysical Journal International, 226(3), 1696–1704, https://doi.org/10.1093/gji/ggab167.
 - **_Creasy, N., Pisconti, A., Long, M.  D., & Thomas, C. (2021)_**,
   Modeling of seismic anisotropy observations reveals plausible lowermost mantle flow directions beneath Siberia,
   Geochemistry, Geophysics, Geosystems, 22, https://doi.org/10.1029/2021GC009924.
@@ -90,7 +90,7 @@ Peer-reviewed work in which StackSplit was used:
 
 - **_Grund, M. & Ritter, J. R. R. (2020)_**,
   Shear-wave splitting beneath Fennoscandia — evidence for dipping structures and laterally varying multilayer anisotropy,
-  GJI, 223(3), 1525-1547, https://doi.org/10.1093/gji/ggaa388.
+  Geophysical Journal International, 223(3), 1525-1547, https://doi.org/10.1093/gji/ggaa388.
 - **_Spingos, I., Kaviris, G., Millas, C., Papadimitriou, P. & Voulgaris, N. (2020)_**,
   Pytheas: An open-source software solution for local shear-wave splitting studies,
   Computers & Geosciences, 134, https://doi.org/10.1016/j.cageo.2019.104346.
@@ -105,7 +105,7 @@ Peer-reviewed work in which StackSplit was used:
   Geology, 47 (2): 123–126. https://doi.org/10.1130/G45514.1.
 - **_Ju, C., Zhao, J., Huang, N., Xu, Q. & Liu, H. (2019)_**,
   Seismic anisotropy of the crust and upper mantle beneath western Tibet revealed by shear wave splitting measurements,
-  GJI, 216(1), 535–544, https://doi.org/10.1093/gji/ggy448.
+  Geophysical Journal International, 216(1), 535–544, https://doi.org/10.1093/gji/ggy448.
 
 References
 ----------
