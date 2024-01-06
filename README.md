@@ -55,7 +55,7 @@ Peer-reviewed work in which StackSplit was used:
 
 **2024**
 
-- **_Fröhlich, Y. & Ritter, J. R. R. (2024)_**,
+- **_Fröhlich, Y., Grund, M. & Ritter, J. R. R. (2024)_**,
   Lateral and vertical variations of seismic anisotropy in the lithosphere-asthenosphere system underneath Central Europe from long-term splitting measurements,
   in revision for Geophysical Journal International.
 
