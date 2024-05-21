@@ -56,9 +56,12 @@ Peer-reviewed work in which StackSplit was used:
 
 **2024**
 
+- **_Andriampenomanana, F., Nyblade, A., Durrheim, R., van der Meijde, M., Paulssen, H., Kwadiba, M., et al. (2024)_**,
+  Coherent seismic anisotropy pattern across southern Africa revealed by shear wave splitting measurements, 
+  Earth and Space Science, 11, https://doi.org/10.1029/2023EA003469.
 - **_Fröhlich, Y., Grund, M. & Ritter, J. R. R. (2024)_**,
   Lateral and vertical variations of seismic anisotropy in the lithosphere-asthenosphere system underneath Central Europe from long-term splitting measurements,
-  in revision for Geophysical Journal International.
+  under revision for Geophysical Journal International.
 
 **2022**
 
@@ -141,7 +144,7 @@ Related topics
 - [SplitPy](https://github.com/paudetseis/SplitPy): Shear wave splitting analysis in Python (based on SplitLab)
 
 - [SWSPy](https://github.com/TomSHudson/swspy): A Python package for performing shear wave splitting in an automated manner
-  
+
 - [SeisSplit.jl](https://github.com/anowacki/SeisSplit.jl): Shear wave splitting analysis in Julia
 
 References
