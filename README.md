@@ -1,4 +1,5 @@
 
+
 # StackSplit                            [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5802051.svg)](https://doi.org/10.5281/zenodo.5802051) [![View michaelgrund/stacksplit on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/62402-michaelgrund-stacksplit)
 
 ### A plugin for multi-event shear wave splitting analyses in SplitLab
@@ -49,7 +50,7 @@ Contributing
 Did you find a bug or have suggestions for improvements? Simply open a new [issue](https://github.com/michaelgrund/stacksplit/issues) or [pull request](https://github.com/michaelgrund/stacksplit/pulls) here on GitHub.
 
 Use Cases
-----------
+---------
 
 Peer-reviewed work in which StackSplit was used:
 
@@ -128,6 +129,21 @@ Already mentioned as citization section
   Computers & Geosciences, 105, 43-50, https://doi.org/10.1016/j.cageo.2017.04.015.
 -->
 
+Related topics
+--------------
+
+- SplitLab [1.2.1](https://robporritt.wordpress.com/software/): Updated and expanded version (recommended to use with StackSplit)
+
+- SplitLab [1.0.5](http://splitting.gm.univ-montp2.fr/): Original version (most likely works with StackSplit)
+
+- SplitLab [1.9.0](https://github.com/IPGP/splitlab): Most recent version (not compatible with StackSplit yet)
+
+- [SplitPy](https://github.com/paudetseis/SplitPy): Shear wave splitting analysis in Python (based on SplitLab)
+
+- [SWSPy](https://github.com/TomSHudson/swspy): A Python package for performing shear wave splitting in an automated manner
+  
+- [SeisSplit.jl](https://github.com/anowacki/SeisSplit.jl): Shear wave splitting analysis in Julia
+
 References
 ----------
 
@@ -136,12 +152,3 @@ References
 - **_Wolfe, C. J. & Silver, P. G. (1998)_**, Seismic anisotropy of oceanic upper mantle: Shear wave splitting methodologies and observations, Journal of Geophysical Research 103(B1), 749-771, https://doi.org/10.1029/97JB02023.
 - **_Wüstefeld, A. (2007)_**, Methods and applications of shear wave splitting: The East European Craton. Ph.D. thesis, Univ. de Montpellier, France, http://splitting.gm.univ-montp2.fr/.
 - **_Wüstefeld, A., Bokelmann, G., Zaroli, C., Barruol, G. (2008)_**, SplitLab: A shear-wave splitting environment in Matlab, Computers & Geosciences 34, 515–528, https://doi.org/10.1016/j.cageo.2007.08.002.
-
-Related topics
---------------
-
-- Most recent SplitLab version (not compatible with StackSplit yet): https://github.com/IPGP/splitlab
-
-- Shear wave splitting analysis in Python (based on SplitLab): https://github.com/paudetseis/SplitPy
-
-- Shear wave splitting analysis in Julia: https://github.com/anowacki/SeisSplit.jl
